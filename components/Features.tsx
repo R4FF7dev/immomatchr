@@ -32,7 +32,7 @@ const Features: React.FC = () => {
             alignment="left"
             title="Nahtlose Integration & Übersicht"
             description="Verbinden Sie Immomatchr mit Ihrem bestehenden Ökosystem. Keine Dateninseln, sondern ein fließender Austausch."
-            image="/foto_2.jpeg" 
+            image="https://raw.githubusercontent.com/R4FF7dev/immomatchr/main/foto_2.jpeg" 
             points={[
               { icon: LayoutDashboard, title: "CRM- & Dashboard-Integration", text: "Volle Transparenz über Lead-Quelle, Gespräche und Pipeline. Anbindung an onOffice, FlowFact, PropStack." },
               { icon: Calendar, title: "Kalender-Sync", text: "Nahtlose Integration in Google/Outlook, um Doppelbuchungen zu vermeiden." }
@@ -44,7 +44,7 @@ const Features: React.FC = () => {
             alignment="right"
             title="KI-Intelligenz, die verkauft"
             description="Unsere KI versteht nicht nur Daten, sondern Kontext. Sie identifiziert Kaufbereitschaft, bevor der Kunde es selbst weiß."
-            image="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=1200&h=800" // AI/Nodes Abstract
+            image="https://raw.githubusercontent.com/R4FF7dev/immomatchr/main/foto_1.jpeg"
             points={[
               { icon: Brain, title: "KI-gestütztes Matching", text: "Analysiert Verhalten und Timing für maximale Relevanz. Findet Matches, die manuell übersehen werden." },
               { icon: MessageCircle, title: "Personalisierte Ansprache", text: "Der KI-Agent kommuniziert im passenden, menschlich klingenden Ton. Kein Roboter-Deutsch." }
