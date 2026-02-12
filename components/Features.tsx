@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { LayoutDashboard, Brain, MessageCircle, Bell, Calendar, ShieldCheck } from 'lucide-react';
 
@@ -33,7 +32,7 @@ const Features: React.FC = () => {
             alignment="left"
             title="Nahtlose Integration & Übersicht"
             description="Verbinden Sie Immomatchr mit Ihrem bestehenden Ökosystem. Keine Dateninseln, sondern ein fließender Austausch."
-            image="https://images.unsplash.com/photo-1642790551116-18e150f248e3?auto=format&fit=crop&q=80&w=1200&h=800" // Dashboard/Analytics Abstract
+            image="/foto_2.jpeg" 
             points={[
               { icon: LayoutDashboard, title: "CRM- & Dashboard-Integration", text: "Volle Transparenz über Lead-Quelle, Gespräche und Pipeline. Anbindung an onOffice, FlowFact, PropStack." },
               { icon: Calendar, title: "Kalender-Sync", text: "Nahtlose Integration in Google/Outlook, um Doppelbuchungen zu vermeiden." }
